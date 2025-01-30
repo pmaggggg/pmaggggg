@@ -26,6 +26,7 @@ I am keen to continue to grow and learn within data. On my profile you will see 
 |---------------------------|------------------------------|--------------------------|
 | ![Alteryx](https://raw.githubusercontent.com/pmaggggg/pmaggggg/main/alteryx-designer-advanced-certification.png) | ![Tableau](https://raw.githubusercontent.com/pmaggggg/pmaggggg/main/tableau-certified-data-analyst.1.png) | ![PL-300](https://raw.githubusercontent.com/pmaggggg/pmaggggg/main/pl_300.png) |
 
+## Visualisation Projects (Click the image to go to Tableau Public)
 
 
 
