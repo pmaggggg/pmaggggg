@@ -24,5 +24,8 @@ I am keen to continue to grow and learn within data. On my profile you will see 
 
 ![Alteryx Certification](https://raw.githubusercontent.com/pmaggggg/pmaggggg/main/alteryx-designer-advanced-certification.png)
 
+![Tableau Certification](https://raw.githubusercontent.com/pmaggggg/pmaggggg/main/tableau-certified-data-analyst.1.png)
+
+
 
 
