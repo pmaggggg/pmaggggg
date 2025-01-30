@@ -22,7 +22,7 @@ I am keen to continue to grow and learn within data. On my profile you will see 
 
 ## Certifications
 
-<table align="center" style="width: 100%; max-width: 600px; text-align: center;">
+<table>
   <tr>
     <th>Alteryx Designer Advanced</th>
     <th>Tableau Certified Data Analyst</th>
@@ -34,6 +34,7 @@ I am keen to continue to grow and learn within data. On my profile you will see 
     <td><img src="https://raw.githubusercontent.com/pmaggggg/pmaggggg/main/pl_300.png" width="150"></td>
   </tr>
 </table>
+
 
 
 
