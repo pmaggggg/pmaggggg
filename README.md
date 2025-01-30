@@ -22,11 +22,9 @@ I am keen to continue to grow and learn within data. On my profile you will see 
 
 ## Certifications
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pmaggggg/pmaggggg/main/alteryx-designer-advanced-certification.png" width="250" height="250">
-  <img src="https://raw.githubusercontent.com/pmaggggg/pmaggggg/main/tableau-certified-data-analyst.1.png" width="250" height="250">
-  <img src="https://raw.githubusercontent.com/pmaggggg/pmaggggg/main/pl_300.png" width="250" height="250">
-</p>
+| Alteryx Designer Advanced | Tableau Certified Data Analyst | PL-300: Power BI Analyst |
+|---------------------------|------------------------------|--------------------------|
+| ![Alteryx](https://raw.githubusercontent.com/pmaggggg/pmaggggg/main/alteryx-designer-advanced-certification.png) | ![Tableau](https://raw.githubusercontent.com/pmaggggg/pmaggggg/main/tableau-certified-data-analyst.1.png) | ![PL-300](https://raw.githubusercontent.com/pmaggggg/pmaggggg/main/pl_300.png) |
 
 
 
