@@ -31,9 +31,16 @@ This **Viz Of The Day** winning dashboard shows a detailed performance overview 
 
 [![Golf Superstore Performance Dashboard](https://raw.githubusercontent.com/pmaggggg/pmaggggg/main/Golf%20image)](https://public.tableau.com/app/profile/patrick.maguire/viz/GolfSuperstorePerformanceOverview/GolfSuperstorePerformanceOverview)
 
-This dashboard displays a detailed overview of the ESG (Environmental, Social, Governance) performance of a fictional company, with fake data I generated using ChatGPT + Python
+This dashboard displays a detailed overview of the ESG (Environmental, Social, Governance) performance of a fictional company, with fake data I generated using ChatGPT + Python.
 
 [![ESG Analysis Dashboard](https://raw.githubusercontent.com/pmaggggg/pmaggggg/main/esg%2Bimage.png)](https://public.tableau.com/app/profile/patrick.maguire/viz/ESGAnalysisDashboard-TILConnect/Overview)
+
+Analyse the Functional Cost Performance Overview of a fictional multi Sector organisation.
+
+[![Functional Cost Performance Dashboard](https://raw.githubusercontent.com/pmaggggg/pmaggggg/main/FCP.png)](https://public.tableau.com/app/profile/patrick.maguire/viz/FunctionalCostPerformanceOverview/KeyInsights)
+
+Visit my [Tableau Public Profile](https://public.tableau.com/profile/patrick.maguire) for more dashboards and visualisations!
+
 
 
 
