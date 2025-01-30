@@ -22,20 +22,18 @@ I am keen to continue to grow and learn within data. On my profile you will see 
 
 ## Certifications
 
-<p align="center">
-  <table>
-    <tr>
-      <th>Alteryx Designer Advanced</th>
-      <th>Tableau Certified Data Analyst</th>
-      <th>PL-300: Power BI Analyst</th>
-    </tr>
-    <tr>
-      <td><img src="https://raw.githubusercontent.com/pmaggggg/pmaggggg/main/alteryx-designer-advanced-certification.png" width="150"></td>
-      <td><img src="https://raw.githubusercontent.com/pmaggggg/pmaggggg/main/tableau-certified-data-analyst.1.png" width="150"></td>
-      <td><img src="https://raw.githubusercontent.com/pmaggggg/pmaggggg/main/pl_300.png" width="150"></td>
-    </tr>
-  </table>
-</p>
+<table align="center" style="width: 100%; max-width: 600px; text-align: center;">
+  <tr>
+    <th>Alteryx Designer Advanced</th>
+    <th>Tableau Certified Data Analyst</th>
+    <th>PL-300: Power BI Analyst</th>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/pmaggggg/pmaggggg/main/alteryx-designer-advanced-certification.png" width="150"></td>
+    <td><img src="https://raw.githubusercontent.com/pmaggggg/pmaggggg/main/tableau-certified-data-analyst.1.png" width="150"></td>
+    <td><img src="https://raw.githubusercontent.com/pmaggggg/pmaggggg/main/pl_300.png" width="150"></td>
+  </tr>
+</table>
 
 
 
