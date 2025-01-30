@@ -28,8 +28,7 @@ I am keen to continue to grow and learn within data. On my profile you will see 
 
 ## Visualisation Projects (Click the image to go to Tableau Public)
 
-[![Golf Superstore Performance Dashboard](https://raw.githubusercontent.com/pmaggggg/pmaggggg/main/Screenshot%202025-01-30%20155434.png)](https://public.tableau.com/app/profile/patrick.maguire/viz/GolfSuperstorePerformanceOverview/GolfSuperstorePerformanceOverview)
-
+[![Golf Superstore Performance Dashboard](https://raw.githubusercontent.com/pmaggggg/pmaggggg/main/Golf%20image)](https://public.tableau.com/app/profile/patrick.maguire/viz/GolfSuperstorePerformanceOverview/GolfSuperstorePerformanceOverview)
 
 
 
