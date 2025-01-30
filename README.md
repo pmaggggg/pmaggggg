@@ -22,6 +22,6 @@ I am keen to continue to grow and learn within data. On my profile you will see 
 
 ## Certifications
 
-
+https://github.com/pmaggggg/pmaggggg/blob/main/alteryx-designer-advanced-certification.png
 
 
