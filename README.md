@@ -27,23 +27,27 @@ I am keen to continue to grow and learn within data. On my profile you will see 
 | ![Alteryx](https://raw.githubusercontent.com/pmaggggg/pmaggggg/main/alteryx-designer-advanced-certification.png) | ![Tableau](https://raw.githubusercontent.com/pmaggggg/pmaggggg/main/tableau-certified-data-analyst.1.png) | ![PL-300](https://raw.githubusercontent.com/pmaggggg/pmaggggg/main/pl_300.png) |
 
 ## Visualisation Projects (Click the image to go to Tableau Public)
-This **Viz Of The Day** winning dashboard shows a detailed performance overview of a fictional golf related Superstore. 
+### This **Viz Of The Day** winning dashboard shows a detailed performance overview of a fictional golf related Superstore. 
 
 [![Golf Superstore Performance Dashboard](https://raw.githubusercontent.com/pmaggggg/pmaggggg/main/Golf%20image)](https://public.tableau.com/app/profile/patrick.maguire/viz/GolfSuperstorePerformanceOverview/GolfSuperstorePerformanceOverview)
 
-This dashboard displays a detailed overview of the ESG (Environmental, Social, Governance) performance of a fictional company, with fake data I generated using ChatGPT + Python.
+### This dashboard displays a detailed overview of the ESG (Environmental, Social, Governance) performance of a fictional company, with fake data I generated using ChatGPT + Python.
 
 [![ESG Analysis Dashboard](https://raw.githubusercontent.com/pmaggggg/pmaggggg/main/esg%2Bimage.png)](https://public.tableau.com/app/profile/patrick.maguire/viz/ESGAnalysisDashboard-TILConnect/Overview)
 
-Analyse the Functional Cost Performance Overview of a fictional multi Sector organisation.
+### Analyse the Functional Cost Performance Overview of a fictional multi Sector organisation.
 
 [![Functional Cost Performance Dashboard](https://raw.githubusercontent.com/pmaggggg/pmaggggg/main/FCP.png)](https://public.tableau.com/app/profile/patrick.maguire/viz/FunctionalCostPerformanceOverview/KeyInsights)
 
-Visit my [Tableau Public Profile](https://public.tableau.com/profile/patrick.maguire) for more dashboards and visualisations!
+### Visit my [Tableau Public Profile](https://public.tableau.com/profile/patrick.maguire) for more dashboards and visualisations!
 
 ## Sample Work
 
-- LeetCode SQL 50: Explore my solutions to LeetCode's 50 essential SQL questions 
+ - **LeetCode SQL 50**: Explore my solutions to LeetCode's 50 essential SQL questions, with topics covered including Subqueries, CTEs, and advanced string functions [HERE](https://github.com/pmaggggg/LeetCode-SQL-50).  
+
+ - **Preppin' Data solutions using SQL**: See how I solved a variety of Preppin' Data challenges using Snowflake, HERE
+
+
 
 
 
