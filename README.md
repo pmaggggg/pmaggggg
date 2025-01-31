@@ -41,6 +41,10 @@ Analyse the Functional Cost Performance Overview of a fictional multi Sector org
 
 Visit my [Tableau Public Profile](https://public.tableau.com/profile/patrick.maguire) for more dashboards and visualisations!
 
+## Sample Work
+
+- LeetCode SQL 50: Explore my solutions to LeetCode's 50 essential SQL questions 
+
 
 
 
