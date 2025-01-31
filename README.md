@@ -45,7 +45,7 @@ I am keen to continue to grow and learn within data. On my profile you will see 
 
  - **LeetCode SQL 50**: Explore my solutions to LeetCode's 50 essential SQL questions, with topics covered including Subqueries, CTEs, and advanced string functions [HERE](https://github.com/pmaggggg/LeetCode-SQL-50).  
 
- - **Preppin' Data solutions using SQL**: See how I solved a variety of Preppin' Data challenges using Snowflake, [HERE](https://github.com/pmaggggg/Preppin_Data_Solutions)
+ - **Preppin' Data solutions using SQL**: See how I solved a variety of Preppin' Data challenges using Snowflake, [HERE](https://github.com/pmaggggg/Preppin_Data_Solutions).
 
 
 
